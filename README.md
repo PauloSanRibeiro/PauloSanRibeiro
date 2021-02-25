@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, sou Paulo Ribeiro! 👋
+
+Atualmente estou cursando Engenharia de Software, pela Universidade Estácio de Sá - UNESA, com o grande objetivo de crescimento na área de desenvolvimento de software e gestão de TI.
+
+Gosto de aprender coisas novas e aplicá-las. Os desafios fazem parte da vida. O importante é sempre continuar em frente.
 
 <!--
 **PauloSanRibeiro/PauloSanRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
