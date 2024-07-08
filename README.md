@@ -1,6 +1,6 @@
 ## Olá, sou Paulo Ribeiro! 👋
 <div>
-Atualmente estou cursando Engenharia de Software, pela Universidade Estácio de Sá - UNESA, com o grande objetivo de crescimento na área de desenvolvimento de software. Gosto de aprender coisas novas e aplicá-las. 
+Formado em Engenharia de Software, pela Universidade Estácio de Sá - UNESA, com o grande objetivo de crescimento na área de desenvolvimento de software. Gosto de aprender coisas novas e aplicá-las. 
 
  <br><li>
      <em>Os desafios fazem parte da vida. O importante é sempre continuar em frente.</em>
